@@ -9,8 +9,8 @@
 ### 💻 About Me
 
 - 🎓 2nd-year Software Engineering student at Işık University, Istanbul
-- 💼 Backend Intern at Creafolks – building APIs with TypeScript and Supabase
-- 💼 Data Science Intern at IntelliVerse – data analysis with Python
+- 💼 Backend Developer at Creafolks – building APIs with TypeScript and Supabase
+- 💼 Artifical Intelligence Intern at IntelliVerse – data analysis with Python
 - 🧠 Trainee at Yapay Zeka ve Teknoloji Akademisi – developing AI-powered apps with FastAPI
 - 🧑‍🏫 Part-time Teaching Assistant for Java courses (COMP1111 & COMP1112)
 
